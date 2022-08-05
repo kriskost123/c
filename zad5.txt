@@ -1,0 +1,3 @@
+cat numbers2.txt | sort -n | tail -n1
+cat numbers2.txt | sort -n |head  -n1
+./highest < numbers.txt
